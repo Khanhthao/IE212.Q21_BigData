@@ -1,0 +1,28 @@
+BÁO CÁO THỐNG KÊ - BÀI 2
+Tổng số bình luận: 11770
+
+1. TOP 5 TỪ XUẤT HIỆN NHIỀU NHẤT:
+   1. phòng                : 6584 lần
+   2. khách                : 4982 lần
+   3. sạn                  : 3929 lần
+   4. vụ                   : 3634 lần
+   5. không                : 3244 lần
+
+2. THỐNG KÊ THEO CATEGORY:
+   GENERAL                   : 5583 bình luận
+   COMFORT                   : 1373 bình luận
+   CLEANLINESS               : 1364 bình luận
+   QUALITY                   : 1164 bình luận
+   DESIGN&FEATURES           : 939 bình luận
+   PRICES                    : 745 bình luận
+   MISCELLANEOUS             : 335 bình luận
+   STYLE&OPTIONS             : 267 bình luận
+
+3. THỐNG KÊ THEO ASPECT:
+   HOTEL                     : 3606 bình luận
+   ROOMS                     : 2501 bình luận
+   SERVICE                   : 2301 bình luận
+   ROOM_AMENITIES            : 1267 bình luận
+   LOCATION                  : 957 bình luận
+   FOOD&DRINKS               : 696 bình luận
+   FACILITIES                : 442 bình luận

@@ -1,0 +1,77 @@
+BÁO CÁO BÀI 5 - 5 TỪ LIÊN QUAN NHẤT THEO TỪNG PHÂN LOẠI
+================================================================
+
+Tổng số bình luận được phân tích: 11770
+
+PHÂN LOẠI: CLEANLINESS
+--------------------------------------------------
+5 từ liên quan nhất:
+   1. phòng                : 1383 lần
+   2. sạch                 : 1052 lần
+   3. sẽ,                  : 626 lần
+   4. tiện                 : 557 lần
+   5. ốc                   : 537 lần
+
+PHÂN LOẠI: COMFORT
+--------------------------------------------------
+5 từ liên quan nhất:
+   1. phòng                : 640 lần
+   2. hài                  : 612 lần
+   3. khách                : 536 lần
+   4. lòng                 : 516 lần
+   5. không                : 504 lần
+
+PHÂN LOẠI: DESIGN&FEATURES
+--------------------------------------------------
+5 từ liên quan nhất:
+   1. phòng                : 776 lần
+   2. không                : 398 lần
+   3. khách                : 296 lần
+   4. sạn                  : 250 lần
+   5. sạch                 : 246 lần
+
+PHÂN LOẠI: GENERAL
+--------------------------------------------------
+5 từ liên quan nhất:
+   1. khách                : 2745 lần
+   2. phòng                : 2673 lần
+   3. vụ                   : 2192 lần
+   4. sạn                  : 2130 lần
+   5. nhân                 : 2100 lần
+
+PHÂN LOẠI: MISCELLANEOUS
+--------------------------------------------------
+5 từ liên quan nhất:
+   1. không                : 204 lần
+   2. phòng                : 158 lần
+   3. khách                : 140 lần
+   4. sạn                  : 89 lần
+   5. nước                 : 76 lần
+
+PHÂN LOẠI: PRICES
+--------------------------------------------------
+5 từ liên quan nhất:
+   1. giá                  : 688 lần
+   2. cả                   : 365 lần
+   3. phòng                : 317 lần
+   4. hợp                  : 304 lần
+   5. vụ                   : 302 lần
+
+PHÂN LOẠI: QUALITY
+--------------------------------------------------
+5 từ liên quan nhất:
+   1. phòng                : 599 lần
+   2. chất                 : 448 lần
+   3. khách                : 447 lần
+   4. không                : 402 lần
+   5. lượng                : 389 lần
+
+PHÂN LOẠI: STYLE&OPTIONS
+--------------------------------------------------
+5 từ liên quan nhất:
+   1. sáng                 : 218 lần
+   2. ăn                   : 178 lần
+   3. bữa                  : 115 lần
+   4. món                  : 107 lần
+   5. không                : 101 lần
+

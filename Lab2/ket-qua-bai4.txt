@@ -1,0 +1,139 @@
+BÁO CÁO BÀI 4 - PHÂN TÍCH TỪ THEO PHÂN LOẠI
+==================================================
+
+PHÂN LOẠI: CLEANLINESS
+--------------------------------------------------
+5 từ mang ý nghĩa TÍCH CỰC nhất:
+   1. phòng                : 1177 lần
+   2. sạch                 : 965 lần
+   3. sẽ,                  : 600 lần
+   4. tiện                 : 530 lần
+   5. ốc                   : 481 lần
+
+5 từ mang ý nghĩa TIÊU CỰC nhất:
+   1. phòng                : 193 lần
+   2. không                : 170 lần
+   3. sạch                 : 84 lần
+   4. sinh                 : 74 lần
+   5. vệ                   : 73 lần
+
+
+PHÂN LOẠI: COMFORT
+--------------------------------------------------
+5 từ mang ý nghĩa TÍCH CỰC nhất:
+   1. hài                  : 530 lần
+   2. lòng                 : 444 lần
+   3. phòng                : 432 lần
+   4. khách                : 427 lần
+   5. sạn                  : 357 lần
+
+5 từ mang ý nghĩa TIÊU CỰC nhất:
+   1. phòng                : 203 lần
+   2. không                : 197 lần
+   3. khách                : 104 lần
+   4. sạn                  : 81 lần
+   5. hài                  : 70 lần
+
+
+PHÂN LOẠI: DESIGN&FEATURES
+--------------------------------------------------
+5 từ mang ý nghĩa TÍCH CỰC nhất:
+   1. phòng                : 527 lần
+   2. không                : 227 lần
+   3. sạch                 : 218 lần
+   4. khách                : 217 lần
+   5. sạn                  : 185 lần
+
+5 từ mang ý nghĩa TIÊU CỰC nhất:
+   1. phòng                : 238 lần
+   2. không                : 160 lần
+   3. khách                : 70 lần
+   4. sạn                  : 58 lần
+   5. cách                 : 38 lần
+
+
+PHÂN LOẠI: GENERAL
+--------------------------------------------------
+5 từ mang ý nghĩa TÍCH CỰC nhất:
+   1. khách                : 2304 lần
+   2. phòng                : 2207 lần
+   3. vụ                   : 1934 lần
+   4. nhân                 : 1848 lần
+   5. sạn                  : 1783 lần
+
+5 từ mang ý nghĩa TIÊU CỰC nhất:
+   1. không                : 369 lần
+   2. phòng                : 311 lần
+   3. khách                : 264 lần
+   4. sạn                  : 192 lần
+   5. nhân                 : 149 lần
+
+
+PHÂN LOẠI: MISCELLANEOUS
+--------------------------------------------------
+5 từ mang ý nghĩa TÍCH CỰC nhất:
+   1. khách                : 26 lần
+   2. sạn                  : 20 lần
+   3. phòng                : 16 lần
+   4. không                : 10 lần
+   5. ăn                   : 10 lần
+
+5 từ mang ý nghĩa TIÊU CỰC nhất:
+   1. không                : 185 lần
+   2. phòng                : 135 lần
+   3. khách                : 105 lần
+   4. nước                 : 70 lần
+   5. sạn                  : 66 lần
+
+
+PHÂN LOẠI: PRICES
+--------------------------------------------------
+5 từ mang ý nghĩa TÍCH CỰC nhất:
+   1. giá                  : 594 lần
+   2. cả                   : 331 lần
+   3. hợp                  : 290 lần
+   4. vụ                   : 280 lần
+   5. phòng                : 269 lần
+
+5 từ mang ý nghĩa TIÊU CỰC nhất:
+   1. giá                  : 55 lần
+   2. không                : 47 lần
+   3. phòng                : 30 lần
+   4. tiền                 : 22 lần
+   5. khách                : 20 lần
+
+
+PHÂN LOẠI: QUALITY
+--------------------------------------------------
+5 từ mang ý nghĩa TÍCH CỰC nhất:
+   1. phòng                : 326 lần
+   2. chất                 : 324 lần
+   3. lượng                : 292 lần
+   4. khách                : 267 lần
+   5. sạn                  : 227 lần
+
+5 từ mang ý nghĩa TIÊU CỰC nhất:
+   1. không                : 274 lần
+   2. phòng                : 243 lần
+   3. khách                : 140 lần
+   4. sạn                  : 117 lần
+   5. ăn                   : 94 lần
+
+
+PHÂN LOẠI: STYLE&OPTIONS
+--------------------------------------------------
+5 từ mang ý nghĩa TÍCH CỰC nhất:
+   1. sáng                 : 91 lần
+   2. ăn                   : 73 lần
+   3. bữa                  : 52 lần
+   4. món                  : 41 lần
+   5. phong                : 36 lần
+
+5 từ mang ý nghĩa TIÊU CỰC nhất:
+   1. sáng                 : 117 lần
+   2. ăn                   : 95 lần
+   3. không                : 88 lần
+   4. món                  : 62 lần
+   5. bữa                  : 61 lần
+
+

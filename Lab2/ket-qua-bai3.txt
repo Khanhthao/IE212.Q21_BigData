@@ -1,0 +1,21 @@
+BÁO CÁO BÀI 3 - PHÂN TÍCH KHÍA CẠNH ĐÁNH GIÁ
+==================================================
+
+Tổng số đánh giá tích cực   : 9008
+Tổng số đánh giá tiêu cực   : 2108
+
+1. KHÍA CẠNH NHẬN NHIỀU ĐÁNH GIÁ TIÊU CỰC NHẤT:
+   → ROOMS                     : 515 đánh giá negative
+
+2. KHÍA CẠNH NHẬN NHIỀU ĐÁNH GIÁ TÍCH CỰC NHẤT:
+   → HOTEL                     : 2942 đánh giá positive
+
+3. CHI TIẾT THEO TỪNG KHÍA CẠNH:
+--------------------------------------------------
+   FACILITIES                | Positive:  213 | Negative:  211
+   FOOD&DRINKS               | Positive:  366 | Negative:  277
+   HOTEL                     | Positive: 2942 | Negative:  341
+   LOCATION                  | Positive:  843 | Negative:   95
+   ROOMS                     | Positive: 1904 | Negative:  515
+   ROOM_AMENITIES            | Positive:  834 | Negative:  403
+   SERVICE                   | Positive: 1906 | Negative:  266
